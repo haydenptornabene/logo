@@ -10,7 +10,7 @@
         <g id="logo" sketch:type="MSArtboardGroup">
             <g id="Rectangle-4">
                 <use fill="#F1F1F1" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
-                <use fill="none" xlink:href="#path-1"></use>
+                <use fill="#000000" xlink:href="#path-1"></use>
             </g>
         </g>
     </g>
